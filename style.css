@@ -1,0 +1,5 @@
+body{font:16px/1.65 "Segoe UI",system-ui,sans-serif;max-width:780px;margin:40px auto;padding:0 20px;color:#1d1d1d}
+h1{font-size:28px;margin-bottom:4px}h2{font-size:19px;margin-top:30px}a{color:#c75a00}
+.sous{color:#666;margin-top:0}nav{margin:18px 0 26px;font-size:15px}nav a{margin-right:18px}
+.yt{display:inline-flex;align-items:center;gap:8px;border:1px solid #ddd;border-radius:8px;padding:8px 12px;margin-top:10px;font-size:14px}
+.yt b{color:#ff0000}footer{margin-top:48px;font-size:14px;color:#666;border-top:1px solid #ddd;padding-top:12px}
